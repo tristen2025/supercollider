@@ -10,7 +10,7 @@ OSCdef(
 Buffer.freeAll;//put nin setup
 
 // Path to samples folder
-~folderPath = "/home/sclork/Desktop/supercolliderstuff/livecoding/DrumsHitsB";
+~folderPath = "C:/Users/Tristen/Documents/GitHub/supercollider/wavfiles";
 
 ~sam = Array.newClear(16);
 
